@@ -37,13 +37,13 @@ save-percentage-predictor/
    pip install -r requirements.txt
 3. Open the notebook:
   jupyter notebook save_percentage_model.ipynb
-🧰 Tech Stack
+## 🧰 Tech Stack
 -Python 3
 -Pandas, NumPy
 -scikit-learn
 -Seaborn, Matplotlib
 -XGboost,Catboost,Lightgbm
 -Jupyter Notebook  
-🙋 About Me
+## 🙋 About Me
 I'm a first-year Computer Science student diving into data science and sports analytics. This project was built to improve my skills in machine learning, feature engineering, and model evaluation.
 Links for dataset https://www.kaggle.com/datasets/hubertsidorowicz/football-players-stats-2024-2025
