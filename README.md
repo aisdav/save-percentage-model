@@ -22,11 +22,11 @@ The goal of this project is to predict this percentage using regression models t
 
 ## 📁 Project Structure
 
-save-percentage-predictor/
-├── save_percentage_model.ipynb # Main notebook 
-├── README.md # Project overview 
-├── requirements.txt # Dependencies 
-└── data/players_data_light-2024_2025.csv # dataset
+save-percentage-predictor/  
+├── save_percentage_model.ipynb # Main notebook  
+├── README.md # Project overview  
+├── requirements.txt # Dependencies  
+└── data/players_data_light-2024_2025.csv # dataset  
 
 ## 🛠️ Setup Instructions
 
